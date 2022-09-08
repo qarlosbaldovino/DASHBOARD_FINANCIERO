@@ -13,4 +13,4 @@ En el DASHBOARD se muestran datos como la utilidad, gastos totales, ingresos tot
 
 ## IMAGEN
 
-![Dashboard](https://github.com/qarlosbaldovino/DASHBOARD_FINANCIERO/blob/master/Dash.png?raw=true)
+![Dashboard](https://github.com/qarlosbaldovino/DASHBOARD_FINANCIERO/blob/master/dash.png?raw=true)
